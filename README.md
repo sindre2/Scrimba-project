@@ -1,5 +1,6 @@
-# A simple task in Scrimba to demonstrate basic HTML.
+# Scrimba-project
 
+A simple task in Scrimba to demonstrate basic HTML.<br>
 <a href="https://sindre2.github.io/Scrimba-project/">View demo</a>
 
 ## Supporting Scrimba
