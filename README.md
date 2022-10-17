@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# A simple task in Scrimba to demonstrate basic HTML.
 
 ## Supporting Scrimba
 
