@@ -1,5 +1,7 @@
 # A simple task in Scrimba to demonstrate basic HTML.
 
+<a href="https://sindre2.github.io/Scrimba-project/">View demo</a>
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
